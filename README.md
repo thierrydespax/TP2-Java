@@ -1,2 +1,4 @@
 # TP2-Java
-Projet Java TP2
+Registration Management
+
+The application allows a user to either login if he has a registered email address or to register or leave the application
